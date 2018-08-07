@@ -1,0 +1,2 @@
+# safelinku.js
+safelink baru
